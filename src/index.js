@@ -1,3 +1,4 @@
-import('./render').then(exports => {
-    exports.render()
-})
+// index.js
+import styles from './render.css'
+
+console.log(styles)
