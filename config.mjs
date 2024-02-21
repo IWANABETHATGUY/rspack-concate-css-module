@@ -35,7 +35,7 @@ const config = {
 		],
 	},
 	optimization: {
-		concatenateModules: true,
+    concatenateModules: false,
 		minimize: false,
 	},
 	experiments: {

@@ -1,6 +1,6 @@
 /** foo.css */
-.foo {
+.rspack-repro-748-foo {
     background-color: red;
 }
 
-head{--webpack-rspack-repro-590:_748;}
+head{--webpack-rspack-repro-590:foo/_748;}

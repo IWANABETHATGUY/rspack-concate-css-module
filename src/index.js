@@ -1,4 +1,4 @@
 // index.js
-import styles from './render.css'
+import * as styles from './render.css'
 
 console.log(styles)

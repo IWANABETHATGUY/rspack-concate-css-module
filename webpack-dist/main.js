@@ -177,7 +177,7 @@ var __webpack_exports__ = {};
 // index.js
 
 
-console.log(_render_css__WEBPACK_IMPORTED_MODULE_0__["default"])
+console.log(_render_css__WEBPACK_IMPORTED_MODULE_0__)
 
 /******/ })()
 ;
